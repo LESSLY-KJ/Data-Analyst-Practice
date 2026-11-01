@@ -14,6 +14,6 @@
 
 ```text
 ├── 01_sql/                 # Structured SQL problem sets by topic
-├── 02_python_and_pandas/   # Interactive Jupyter Notebooks (.ipynb) & scripts
+├── 02_eda_in_python/   # Interactive Jupyter Notebooks (.ipynb) & scripts
 ├── 03_hard_tasks/          # The 20 Hard Tasks from the Placement Study Plan
 └── 04_case_studies/        # Root cause diagnostics & business metric trees
