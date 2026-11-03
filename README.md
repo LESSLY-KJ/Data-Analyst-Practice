@@ -30,6 +30,7 @@
 | **LeetCode 1757** | LeetCode 50 | `SELECT`, `WHERE`, `AND` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 584** | LeetCode 50 | `WHERE`, `IS NULL`, Three-valued logic | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 595** | LeetCode 50 | `WHERE`, `OR`, Numeric Filtering | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
+| **LeetCode 1148** | LeetCode 50 | `SELECT DISTINCT`, `ORDER BY`, Aliasing | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 
 ---
 
