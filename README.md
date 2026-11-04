@@ -1,4 +1,4 @@
-# 📊 AI Data Analyst Placement Practice (2026 - 2027)
+# 🚀 AI Data Analyst Placement Practice (2026 - 2027)
 
 ![Status](https://img.shields.io/badge/Status-Active_Practice-success)
 ![Focus](https://img.shields.io/badge/Focus-SQL_|_Python_|_AI-blue)
@@ -21,19 +21,22 @@
 
 ---
 
-## 🎯 Daily Practice Log
+## 📅 Daily Practice Log
 
 ### Phase 1: SQL Sprint (Oct 31 – Nov 12, 2026)
 
-| Problem | Platform | Concepts Covered | Notebook Link | Status |
+| Problem / Module | Platform / Focus | Concepts Covered | Notebook Link | Status |
 |:---|:---:|:---|:---|:---:|
 | **LeetCode 1757** | LeetCode 50 | `SELECT`, `WHERE`, `AND` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 584** | LeetCode 50 | `WHERE`, `IS NULL`, Three-valued logic | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 595** | LeetCode 50 | `WHERE`, `OR`, Numeric Filtering | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 1148** | LeetCode 50 | `SELECT DISTINCT`, `ORDER BY`, Aliasing | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
+| **SQL Top 5 Core Clauses** | Cheat Sheet Part 1 | `SELECT *`, `DISTINCT`, `FROM`, `WHERE`, `GROUP BY` (10 Practice Queries) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **E-Commerce Analytics** | Single-Column `GROUP BY` | `GROUP BY`, `COUNT(*)`, `SUM()`, `MIN()`, `MAX()` on `sales_orders` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
-### 📅 Next Milestones
-- **Nov 3 – Nov 8:** Hard Tasks 2, 3, 4 (Hypothesis tests, Peeking simulation, Simpson's Paradox)
-- **Nov 3 – Nov 12:** Window Functions & Joins Sprint (30 problems)
+### 🎯 Next Milestones
+- **Nov 5 – Nov 7:** SQL Clauses 06–12 (`ORDER BY`, `HAVING`, `INNER JOIN`, `LEFT JOIN`)
+- **Nov 7 – Nov 10:** Task 5: 30 Window Functions Sprint (`ROW_NUMBER`, `RANK`, `DENSE_RANK`, `LAG`, `LEAD`)
+- **Nov 10 – Nov 12:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
