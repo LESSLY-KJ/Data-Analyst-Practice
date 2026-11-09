@@ -34,10 +34,10 @@
 | **SQL Top 5 Core Clauses** | Cheat Sheet Part 1 | `SELECT *`, `DISTINCT`, `FROM`, `WHERE`, `GROUP BY` (10 Practice Queries) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **E-Commerce Analytics** | Single-Column `GROUP BY` | `GROUP BY`, `COUNT(*)`, `SUM()`, `MIN()`, `MAX()` on `sales_orders` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **06 ORDER BY & 07 HAVING** | Cheat Sheet Part 2 | `ORDER BY ASC/DESC`, `GROUP BY` + `HAVING SUM(amount) > 500` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **08-11 Multi-Table JOINs** | Cheat Sheet Part 3 | `INNER JOIN`, `LEFT JOIN` (NULL handling), `JOIN` + `GROUP BY` + `ORDER BY` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Nov 9 – Nov 10:** SQL Clauses 08–12: Multi-Table JOINs (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)
-- **Nov 10 – Nov 11:** Task 5: 30 Window Functions Sprint (`ROW_NUMBER`, `RANK`, `DENSE_RANK`, `LAG`, `LEAD`)
+- **Nov 10 – Nov 11:** Task 5: Window Functions Sprint (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`)
 - **Nov 11 – Nov 12:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
