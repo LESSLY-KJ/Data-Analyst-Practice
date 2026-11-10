@@ -35,9 +35,10 @@
 | **E-Commerce Analytics** | Single-Column `GROUP BY` | `GROUP BY`, `COUNT(*)`, `SUM()`, `MIN()`, `MAX()` on `sales_orders` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **06 ORDER BY & 07 HAVING** | Cheat Sheet Part 2 | `ORDER BY ASC/DESC`, `GROUP BY` + `HAVING SUM(amount) > 500` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **08-11 Multi-Table JOINs** | Cheat Sheet Part 3 | `INNER JOIN`, `LEFT JOIN` (NULL handling), `JOIN` + `GROUP BY` + `ORDER BY` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **13-15 CROSS JOIN & UNION** | Cheat Sheet Part 4 | `CROSS JOIN`, `UNION` (deduplication) vs `UNION ALL` (performance) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Nov 10 – Nov 11:** Task 5: Window Functions Sprint (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`)
-- **Nov 11 – Nov 12:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
+- **Nov 10 – Nov 11:** Finish Part 4: `16 CASE WHEN` & `17 COALESCE`
+- **Nov 11 – Nov 12:** Task 5: Window Functions Sprint (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`)
