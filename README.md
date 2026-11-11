@@ -37,11 +37,10 @@
 | **08-11 Multi-Table JOINs** | Cheat Sheet Part 3 | `INNER JOIN`, `LEFT JOIN` (NULL handling), `JOIN` + `GROUP BY` + `ORDER BY` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **13-15 CROSS JOIN & UNION** | Cheat Sheet Part 4 | `CROSS JOIN`, `UNION` (deduplication) vs `UNION ALL` (performance) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **16 CASE WHEN & 17 COALESCE** | Cheat Sheet Part 5 | `CASE WHEN` conditional tiers, `COALESCE` NULL fallback defaults | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
-| **18-22 Aggregations & KPIs (Part 1)** | Cheat Sheet Part 6 | Global KPI Summary (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`), `COUNT(DISTINCT)` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | 🔄 In Progress (Q1-Q2) |
+| **18-22 Aggregations & KPIs** | Cheat Sheet Part 6 | Global KPI Summary, `COUNT(DISTINCT)`, Filtered `AVG`, `MAX-MIN` Spread, Conditional `COUNT` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Tomorrow:** Finish Part 6: Q3 (Filtered `AVG`), Q4 (`MAX - MIN` Spread), Q5 (Conditional Counting)
-- **Next:** Items 23–25 (`BETWEEN`, `EXISTS`, `IN`)
-- **Next:** Task 5: Window Functions Sprint (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`)
+- **Current:** Items 23–26 (`BETWEEN`, `EXISTS`, `IN`, `CTE (WITH)`) & `27–30` Window Functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LIMIT`)
+- **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
