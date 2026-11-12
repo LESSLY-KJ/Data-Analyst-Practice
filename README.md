@@ -38,9 +38,10 @@
 | **13-15 CROSS JOIN & UNION** | Cheat Sheet Part 4 | `CROSS JOIN`, `UNION` (deduplication) vs `UNION ALL` (performance) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **16 CASE WHEN & 17 COALESCE** | Cheat Sheet Part 5 | `CASE WHEN` conditional tiers, `COALESCE` NULL fallback defaults | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **18-22 Aggregations & KPIs** | Cheat Sheet Part 6 | Global KPI Summary, `COUNT(DISTINCT)`, Filtered `AVG`, `MAX-MIN` Spread, Conditional `COUNT` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **23-26 Smart Filtering & CTEs** | Cheat Sheet Part 7 | `BETWEEN`, `IN`, `NOT EXISTS`, Modular `WITH` CTEs | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Current:** Items 23–26 (`BETWEEN`, `EXISTS`, `IN`, `CTE (WITH)`) & `27–30` Window Functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LIMIT`)
+- **Current (Final 4):** Window Functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`) & `LIMIT`
 - **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
