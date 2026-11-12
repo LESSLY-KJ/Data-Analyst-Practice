@@ -23,7 +23,7 @@
 
 ## 📅 Daily Practice Log
 
-### Phase 1: SQL Sprint (Oct 31 – Nov 12, 2026)
+### Phase 1: SQL Mastery Sprint (30/30 Cheat Sheet Completed 🏆)
 
 | Problem / Module | Platform / Focus | Concepts Covered | Notebook Link | Status |
 |:---|:---:|:---|:---|:---:|
@@ -31,17 +31,18 @@
 | **LeetCode 584** | LeetCode 50 | `WHERE`, `IS NULL`, Three-valued logic | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 595** | LeetCode 50 | `WHERE`, `OR`, Numeric Filtering | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
 | **LeetCode 1148** | LeetCode 50 | `SELECT DISTINCT`, `ORDER BY`, Aliasing | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Accepted |
-| **SQL Top 5 Core Clauses** | Cheat Sheet Part 1 | `SELECT *`, `DISTINCT`, `FROM`, `WHERE`, `GROUP BY` (10 Practice Queries) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **01-05 Core Clauses** | Cheat Sheet Part 1 | `SELECT *`, `DISTINCT`, `FROM`, `WHERE`, `GROUP BY` (10 Practice Queries) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **E-Commerce Analytics** | Single-Column `GROUP BY` | `GROUP BY`, `COUNT(*)`, `SUM()`, `MIN()`, `MAX()` on `sales_orders` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **06 ORDER BY & 07 HAVING** | Cheat Sheet Part 2 | `ORDER BY ASC/DESC`, `GROUP BY` + `HAVING SUM(amount) > 500` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
-| **08-11 Multi-Table JOINs** | Cheat Sheet Part 3 | `INNER JOIN`, `LEFT JOIN` (NULL handling), `JOIN` + `GROUP BY` + `ORDER BY` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **08-12 Multi-Table JOINs** | Cheat Sheet Part 3 | `INNER JOIN`, `LEFT JOIN` (NULL handling), `JOIN` + `GROUP BY` + `ORDER BY` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **13-15 CROSS JOIN & UNION** | Cheat Sheet Part 4 | `CROSS JOIN`, `UNION` (deduplication) vs `UNION ALL` (performance) | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **16 CASE WHEN & 17 COALESCE** | Cheat Sheet Part 5 | `CASE WHEN` conditional tiers, `COALESCE` NULL fallback defaults | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **18-22 Aggregations & KPIs** | Cheat Sheet Part 6 | Global KPI Summary, `COUNT(DISTINCT)`, Filtered `AVG`, `MAX-MIN` Spread, Conditional `COUNT` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 | **23-26 Smart Filtering & CTEs** | Cheat Sheet Part 7 | `BETWEEN`, `IN`, `NOT EXISTS`, Modular `WITH` CTEs | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
+| **27-30 Window Functions & LIMIT** | Cheat Sheet Part 8 | `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `PARTITION BY`, 2nd Highest Salary, `LIMIT` | [`01_sql/sql_practice.ipynb`](01_sql/sql_practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Current (Final 4):** Window Functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`) & `LIMIT`
+- **Active Now:** Python (Pandas) Cheat Sheet Mastery (`02_eda_in_python/02_pandas_practice/practice.ipynb`)
 - **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
