@@ -43,6 +43,14 @@
 
 ---
 
+### Phase 2: Python (Pandas) Data Wrangling Sprint 🐼
+
+| Problem / Module | Platform / Focus | Concepts Covered | Notebook Link | Status |
+|:---|:---:|:---|:---|:---:|
+| **01-05 Pandas Fundamentals** | Cheat Sheet Part 1 | `pd.read_csv()`, `pd.read_excel()`, `df.head()`, `df.tail()`, `df.info()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
+
+---
+
 ### 🎯 Next Milestones
-- **Active Now:** Python (Pandas) Cheat Sheet Mastery (`02_eda_in_python/02_pandas_practice/practice.ipynb`)
+- **Active Now:** Next 5 Pandas Functions: `06 describe()`, `07 shape`, `08 columns`, `09 dtypes`, `10 rename()`
 - **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
