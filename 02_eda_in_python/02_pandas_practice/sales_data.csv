@@ -1,0 +1,8 @@
+order_id,customer_name,category,amount,city
+101,Alice,Electronics,1200.50,New York
+102,Bob,Clothing,80.00,Chicago
+103,Charlie,Electronics,450.00,New York
+104,David,Groceries,,Chicago
+105,Emma,Clothing,200.00,Miami
+106,Frank,Electronics,950.00,San Francisco
+107,Grace,Groceries,120.00,Boston
