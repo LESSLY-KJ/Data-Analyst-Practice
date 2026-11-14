@@ -50,9 +50,10 @@
 | **01-05 Pandas Fundamentals** | Cheat Sheet Part 1 | `pd.read_csv()`, `pd.read_excel()`, `df.head()`, `df.tail()`, `df.info()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 | **06-10 Metadata & Exploration** | Cheat Sheet Part 2 | `df.describe()`, `df.shape`, `df.columns`, `df.dtypes`, `df.rename()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 | **11-15 Cleaning & Grouping** | Cheat Sheet Part 3 | `isnull()`, `notnull()`, `dropna()`, `fillna()`, `groupby()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
+| **16-20 Aggregation & Merging** | Cheat Sheet Part 4 | `agg()`, `sort_values()`, `value_counts()`, `merge()` (inner, left, right, outer) | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Active Now:** Next 5 Pandas Functions: `16 agg()`, `17 sort_values()`, `18 value_counts()`, `19 merge()`, `20 join()`
+- **Active Now:** Next 5 Pandas Functions: `21 concat()`, `22 apply()`, `23 map()`, `24 pivot_table()`, `25 crosstab()`
 - **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
