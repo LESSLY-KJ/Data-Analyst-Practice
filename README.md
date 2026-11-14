@@ -49,8 +49,8 @@
 |:---|:---:|:---|:---|:---:|
 | **01-05 Pandas Fundamentals** | Cheat Sheet Part 1 | `pd.read_csv()`, `pd.read_excel()`, `df.head()`, `df.tail()`, `df.info()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 | **06-10 Metadata & Exploration** | Cheat Sheet Part 2 | `df.describe()`, `df.shape`, `df.columns`, `df.dtypes`, `df.rename()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
-| **11-15 Cleaning & Grouping** | Cheat Sheet Part 3 | `isnull()`, `notnull()`, `dropna()`, `fillna()`, `groupby()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
-| **16-20 Aggregation & Merging** | Cheat Sheet Part 4 | `agg()`, `sort_values()`, `value_counts()`, `merge()` (inner, left, right, outer) | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
+| **11-14 Cleaning & Missing Data** | Cheat Sheet Part 3 | `isnull()`, `notnull()`, `dropna()`, `fillna()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
+| **15-20 Aggregation & Merging** | Cheat Sheet Part 4 | `groupby()`, `agg()`, `sort_values()`, `value_counts()`, `merge()` (all types), `join()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 
 ---
 
