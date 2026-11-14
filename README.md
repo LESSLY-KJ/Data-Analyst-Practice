@@ -48,9 +48,10 @@
 | Problem / Module | Platform / Focus | Concepts Covered | Notebook Link | Status |
 |:---|:---:|:---|:---|:---:|
 | **01-05 Pandas Fundamentals** | Cheat Sheet Part 1 | `pd.read_csv()`, `pd.read_excel()`, `df.head()`, `df.tail()`, `df.info()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
+| **06-10 Metadata & Exploration** | Cheat Sheet Part 2 | `df.describe()`, `df.shape`, `df.columns`, `df.dtypes`, `df.rename()` | [`02_eda_in_python/02_pandas_practice/practice.ipynb`](02_eda_in_python/02_pandas_practice/practice.ipynb) | ✅ Completed |
 
 ---
 
 ### 🎯 Next Milestones
-- **Active Now:** Next 5 Pandas Functions: `06 describe()`, `07 shape`, `08 columns`, `09 dtypes`, `10 rename()`
+- **Active Now:** Next 5 Pandas Functions: `11 isnull()`, `12 notnull()`, `13 dropna()`, `14 fillna()`, `15 groupby()`
 - **Next:** Hard Tasks 1–4 (Outliers, Welch's t-test, Peeking simulation, Simpson's Paradox)
